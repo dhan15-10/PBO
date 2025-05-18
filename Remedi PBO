@@ -16,7 +16,7 @@ namespace Mahasiswa
             Jurusan = jurusan;
         }
     }
-    public class MahasiswaManager
+    public class ManagerMahasiswa
     {
         private List<Mahasiswa> daftarMahasiswa = new List<Mahasiswa>();
 
